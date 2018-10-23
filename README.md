@@ -1,2 +1,2 @@
 # hello-world
-This is another repository
+Hi, This is Amit and new to Git Hub.
